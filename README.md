@@ -1,4 +1,4 @@
-Thanks for the clarification! Here's the **full `README.md` content** formatted properly as **multi-line markdown** — all in **one block** so you can **copy-paste in one go** into your GitHub `README.md`:
+
 
 ---
 
@@ -123,11 +123,10 @@ python restaurant_rating_prediction.py
 
 ---
 
-*Thank you for checking out the project! Feel free to fork, star ⭐, or contribute 🤝.*
+
 
 ```
 
 ---
 
-✅ Now you can **copy the entire block above** and paste it directly into your GitHub `README.md` — it's complete, clean, and designed to look great on your repo page. Let me know if you want it customized further (dark theme badges, animated stats, etc.)!
 ```
